@@ -10,6 +10,6 @@ public class Tests {
 
 	@Test
 	public void tesets(){
-		System.out.println("helloword");
+		System.out.println("helloword");aaa
 	}
 }
